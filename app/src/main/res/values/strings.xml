@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ApplicationP</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="library" />
+    <string name="finder" />
+    <string name="settings" />
+    <string name="api_base_url">https://b430-2405-4802-1cb2-a780-50b5-4adc-cecf-839f.ngrok-free.app/</string>
+    <string name="search" />
+    <string name="current_password">Mật khẩu hiện tại</string>
+    <string name="new_password">Mật khẩu mới</string>
+    <string name="confirm_new_password">Xác nhận mật khẩu mới</string>
+
+</resources>
